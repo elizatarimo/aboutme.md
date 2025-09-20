@@ -2,7 +2,6 @@
 ## PHD Student,Biological Sciences
 ## Uyeda Lab, Virginia Tech
 
-##### Hello everyone 
 Global change, including rising temperatures and the spread of zoonotic diseases, has forced species to adapt to keep up or perish. Understanding species' capacity to respond physiologically to new ecological challenges is essential to understanding their constraints and biological limitations to evolve and adapt to changing environments. 
 
 The phylogenetic history covers species' adaptations to a changing world. How species have evolved in the past might provide important information regarding species’ evolutionary potential. Thermal physiology is also a mechanism to fight off pathogens that would otherwise be detrimental. Even though evolution leaves a clear signal on species' physiological and ecological diversification, most studies on a phylogenetic scale have examined morphological traits and ignored important physiological characteristics that are likely tied to the environment. Studies that integrate physiological, behavioral, and morphological characters with phylogenetic approaches could help the development of better predictions of species adaptations. 
